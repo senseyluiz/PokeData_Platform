@@ -3,7 +3,8 @@ import json
 import os
 
 BASE_URL = "https://pokeapi.co/api/v2/type/"
-OUTPUT_PATH = "../../data/lake/raw/types.json"
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+OUTPUT_PATH = os.path.join(BASE_DIR, "data/lake/raw/types.json")
 
 def extract_tipo():
     url = BASE_URL
@@ -31,5 +32,3 @@ if __name__ == "__main__":
     types = extract_tipo()
     save_to_json(types)
     print(f"{len(types)} tipos encontrados com sucesso")
-
-
