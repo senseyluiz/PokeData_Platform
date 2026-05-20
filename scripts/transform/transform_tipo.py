@@ -4,6 +4,7 @@ import os
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 OUTPUT_PATH = os.path.join(BASE_DIR, "data/processed/tipo.json")
+
 TYPES_PATH = os.path.join(BASE_DIR, "data/lake/raw/types.json")
 
 df_types = pd.read_json(TYPES_PATH)
@@ -18,6 +19,7 @@ dim_tipo = [
     for i , tipo in enumerate(list_types)
 ]
 
+# Será utilizado para a tabela bridge_pokemon_tipo
 tipo_map = {tipo: i + 1 for i, tipo in enumerate(list_types)}
 
 def save_tipo_to_json(data):
