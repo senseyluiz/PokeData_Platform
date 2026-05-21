@@ -1,11 +1,13 @@
 import pandas as pd
 import json
-import os
+from pathlib import Path
 
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-OUTPUT_PATH = os.path.join(BASE_DIR, "data/processed/tipo.json")
+BASE_DIR = Path(__file__).resolve().parents[2]
+OUTPUT_PATH = BASE_DIR / "data/processed/"
 
-TYPES_PATH = os.path.join(BASE_DIR, "data/lake/raw/types.json")
+dim_tipo_PATH = BASE_DIR / "dim_tipo.json"
+
+TYPES_PATH = BASE_DIR / "data/lake/raw/types.json"
 
 df_types = pd.read_json(TYPES_PATH)
 
@@ -23,11 +25,11 @@ dim_tipo = [
 tipo_map = {tipo: i + 1 for i, tipo in enumerate(list_types)}
 
 def save_tipo_to_json(data):
-    print(f"Salvando em {OUTPUT_PATH}")
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+    print(f"Salvando em {dim_tipo_PATH}")
+    with open(dim_tipo_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
+OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
 
 if __name__ == "__main__":
     save_tipo_to_json(dim_tipo)

@@ -1,11 +1,13 @@
 import pandas as pd
+from pathlib import Path
 import json
-import os
 
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-OUTPUT_PATH = os.path.join(BASE_DIR, "data/processed/habilidade.json")
+BASE_DIR = Path(__file__).resolve().parents[2]
+OUTPUT_PATH = BASE_DIR / "data/processed/"
 
-abilitie_PATH = os.path.abspath(os.path.join(BASE_DIR, "data/lake/raw/abilities.json"))
+dim_habilidade_path = OUTPUT_PATH / "dim_habilidade.json"
+
+abilitie_PATH = BASE_DIR / "data/lake/raw/abilities.json"
 
 df_abilities = pd.read_json(abilitie_PATH)
 
@@ -23,10 +25,11 @@ dim_habilidade = [
 habilidade_map = {habilidade: i + 1 for i, habilidade in enumerate(list_abilities)}
 
 def save_habilidade_to_json(data):
-    print(f"Salvando em {OUTPUT_PATH}")
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+    print(f"Salvando em {dim_habilidade_path}")
+    with open(dim_habilidade_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
+
+OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
 
 
 if __name__ == "__main__":
