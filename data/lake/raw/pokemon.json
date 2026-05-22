@@ -910,5 +910,469 @@
             "special-defense": 50,
             "speed": 45
         }
+    },
+    {
+        "id": 41,
+        "name": "zubat",
+        "height": 8,
+        "weight": 75,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "abilities": [
+            "inner-focus",
+            "infiltrator"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 35,
+            "special-attack": 30,
+            "special-defense": 40,
+            "speed": 55
+        }
+    },
+    {
+        "id": 42,
+        "name": "golbat",
+        "height": 16,
+        "weight": 550,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "abilities": [
+            "inner-focus",
+            "infiltrator"
+        ],
+        "stats": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 70,
+            "special-attack": 65,
+            "special-defense": 75,
+            "speed": 90
+        }
+    },
+    {
+        "id": 43,
+        "name": "oddish",
+        "height": 5,
+        "weight": 54,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "chlorophyll",
+            "run-away"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 50,
+            "defense": 55,
+            "special-attack": 75,
+            "special-defense": 65,
+            "speed": 30
+        }
+    },
+    {
+        "id": 44,
+        "name": "gloom",
+        "height": 8,
+        "weight": 86,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "chlorophyll",
+            "stench"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 70,
+            "special-attack": 85,
+            "special-defense": 75,
+            "speed": 40
+        }
+    },
+    {
+        "id": 45,
+        "name": "vileplume",
+        "height": 12,
+        "weight": 186,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "chlorophyll",
+            "effect-spore"
+        ],
+        "stats": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 85,
+            "special-attack": 110,
+            "special-defense": 90,
+            "speed": 50
+        }
+    },
+    {
+        "id": 46,
+        "name": "paras",
+        "height": 3,
+        "weight": 54,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "abilities": [
+            "effect-spore",
+            "dry-skin",
+            "damp"
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 70,
+            "defense": 55,
+            "special-attack": 45,
+            "special-defense": 55,
+            "speed": 25
+        }
+    },
+    {
+        "id": 47,
+        "name": "parasect",
+        "height": 10,
+        "weight": 295,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "abilities": [
+            "effect-spore",
+            "dry-skin",
+            "damp"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 95,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 80,
+            "speed": 30
+        }
+    },
+    {
+        "id": 48,
+        "name": "venonat",
+        "height": 10,
+        "weight": 300,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "compound-eyes",
+            "tinted-lens",
+            "run-away"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 55,
+            "defense": 50,
+            "special-attack": 40,
+            "special-defense": 55,
+            "speed": 45
+        }
+    },
+    {
+        "id": 49,
+        "name": "venomoth",
+        "height": 15,
+        "weight": 125,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "shield-dust",
+            "tinted-lens",
+            "wonder-skin"
+        ],
+        "stats": {
+            "hp": 70,
+            "attack": 65,
+            "defense": 60,
+            "special-attack": 90,
+            "special-defense": 75,
+            "speed": 90
+        }
+    },
+    {
+        "id": 50,
+        "name": "diglett",
+        "height": 2,
+        "weight": 8,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+        "types": [
+            "ground"
+        ],
+        "abilities": [
+            "sand-veil",
+            "arena-trap",
+            "sand-force"
+        ],
+        "stats": {
+            "hp": 10,
+            "attack": 55,
+            "defense": 25,
+            "special-attack": 35,
+            "special-defense": 45,
+            "speed": 95
+        }
+    },
+    {
+        "id": 51,
+        "name": "dugtrio",
+        "height": 7,
+        "weight": 333,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+        "types": [
+            "ground"
+        ],
+        "abilities": [
+            "sand-veil",
+            "arena-trap",
+            "sand-force"
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 100,
+            "defense": 50,
+            "special-attack": 50,
+            "special-defense": 70,
+            "speed": 120
+        }
+    },
+    {
+        "id": 52,
+        "name": "meowth",
+        "height": 4,
+        "weight": 42,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "pickup",
+            "technician",
+            "unnerve"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 35,
+            "special-attack": 40,
+            "special-defense": 40,
+            "speed": 90
+        }
+    },
+    {
+        "id": 53,
+        "name": "persian",
+        "height": 10,
+        "weight": 320,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "limber",
+            "technician",
+            "unnerve"
+        ],
+        "stats": {
+            "hp": 65,
+            "attack": 70,
+            "defense": 60,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 115
+        }
+    },
+    {
+        "id": 54,
+        "name": "psyduck",
+        "height": 8,
+        "weight": 196,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "damp",
+            "cloud-nine",
+            "swift-swim"
+        ],
+        "stats": {
+            "hp": 50,
+            "attack": 52,
+            "defense": 48,
+            "special-attack": 65,
+            "special-defense": 50,
+            "speed": 55
+        }
+    },
+    {
+        "id": 55,
+        "name": "golduck",
+        "height": 17,
+        "weight": 766,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "damp",
+            "cloud-nine",
+            "swift-swim"
+        ],
+        "stats": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 78,
+            "special-attack": 95,
+            "special-defense": 80,
+            "speed": 85
+        }
+    },
+    {
+        "id": 56,
+        "name": "mankey",
+        "height": 5,
+        "weight": 280,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+        "types": [
+            "fighting"
+        ],
+        "abilities": [
+            "vital-spirit",
+            "anger-point",
+            "defiant"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 80,
+            "defense": 35,
+            "special-attack": 35,
+            "special-defense": 45,
+            "speed": 70
+        }
+    },
+    {
+        "id": 57,
+        "name": "primeape",
+        "height": 10,
+        "weight": 320,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+        "types": [
+            "fighting"
+        ],
+        "abilities": [
+            "vital-spirit",
+            "anger-point",
+            "defiant"
+        ],
+        "stats": {
+            "hp": 65,
+            "attack": 105,
+            "defense": 60,
+            "special-attack": 60,
+            "special-defense": 70,
+            "speed": 95
+        }
+    },
+    {
+        "id": 58,
+        "name": "growlithe",
+        "height": 7,
+        "weight": 190,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "intimidate",
+            "flash-fire",
+            "justified"
+        ],
+        "stats": {
+            "hp": 55,
+            "attack": 70,
+            "defense": 45,
+            "special-attack": 70,
+            "special-defense": 50,
+            "speed": 60
+        }
+    },
+    {
+        "id": 59,
+        "name": "arcanine",
+        "height": 19,
+        "weight": 1550,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "intimidate",
+            "flash-fire",
+            "justified"
+        ],
+        "stats": {
+            "hp": 90,
+            "attack": 110,
+            "defense": 80,
+            "special-attack": 100,
+            "special-defense": 80,
+            "speed": 95
+        }
+    },
+    {
+        "id": 60,
+        "name": "poliwag",
+        "height": 6,
+        "weight": 124,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "water-absorb",
+            "damp",
+            "swift-swim"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 50,
+            "defense": 40,
+            "special-attack": 40,
+            "special-defense": 40,
+            "speed": 90
+        }
     }
 ]

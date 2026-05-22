@@ -2,6 +2,8 @@ import pandas as pd
 from pathlib import Path
 import json
 
+from scripts.utils.file_utils import save_to_json
+
 BASE_DIR = Path(__file__).resolve().parents[2]
 OUTPUT_PATH = BASE_DIR / "data/processed"
 
@@ -29,12 +31,6 @@ for _, pokemon in df_pokemons.iterrows():
                 "id_tipo": tipo_map[tipo],
             }
         )
-
-OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
-
-def save_to_json(data, output):
-    with open(output, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":
