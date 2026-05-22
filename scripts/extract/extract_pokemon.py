@@ -1,10 +1,12 @@
 import requests
 import json
-import os
+from pathlib import Path
+
+from scripts.utils.file_utils import save_to_json
 
 BASE_URL = "https://pokeapi.co/api/v2/pokemon/"
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-OUTPUT_PATH = os.path.join(BASE_DIR, "data/lake/raw/pokemon.json")
+BASE_DIR = Path(__file__).resolve().parents[2]
+OUTPUT_PATH = BASE_DIR / "data/lake/raw/pokemon.json"
 
 def extract_pokemon():
     url = BASE_URL
@@ -23,7 +25,6 @@ def extract_pokemon():
             all_pokemons.append(pokemon_data)
 
         url = data["next"]
-
     return all_pokemons
 
 
@@ -44,14 +45,8 @@ def extract_pokemon_details(url):
         "stats": {s["stat"]["name"]: s["base_stat"] for s in data["stats"]},
     }
 
-def save_to_pokemons(data):
-    print(f"Salvando em {OUTPUT_PATH}...")
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-
 
 if __name__ == "__main__":
     all_pokemons = extract_pokemon()
-    save_to_pokemons(all_pokemons)
+    save_to_json(all_pokemons, OUTPUT_PATH)
     print(f"{len(all_pokemons)} Pokémons encontrados com sucesso!")

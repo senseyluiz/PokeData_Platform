@@ -1,0 +1,1486 @@
+[
+    {
+        "id_habilidade": 1,
+        "nome_habilidade": "stench"
+    },
+    {
+        "id_habilidade": 2,
+        "nome_habilidade": "drizzle"
+    },
+    {
+        "id_habilidade": 3,
+        "nome_habilidade": "speed-boost"
+    },
+    {
+        "id_habilidade": 4,
+        "nome_habilidade": "battle-armor"
+    },
+    {
+        "id_habilidade": 5,
+        "nome_habilidade": "sturdy"
+    },
+    {
+        "id_habilidade": 6,
+        "nome_habilidade": "damp"
+    },
+    {
+        "id_habilidade": 7,
+        "nome_habilidade": "limber"
+    },
+    {
+        "id_habilidade": 8,
+        "nome_habilidade": "sand-veil"
+    },
+    {
+        "id_habilidade": 9,
+        "nome_habilidade": "static"
+    },
+    {
+        "id_habilidade": 10,
+        "nome_habilidade": "volt-absorb"
+    },
+    {
+        "id_habilidade": 11,
+        "nome_habilidade": "water-absorb"
+    },
+    {
+        "id_habilidade": 12,
+        "nome_habilidade": "oblivious"
+    },
+    {
+        "id_habilidade": 13,
+        "nome_habilidade": "cloud-nine"
+    },
+    {
+        "id_habilidade": 14,
+        "nome_habilidade": "compound-eyes"
+    },
+    {
+        "id_habilidade": 15,
+        "nome_habilidade": "insomnia"
+    },
+    {
+        "id_habilidade": 16,
+        "nome_habilidade": "color-change"
+    },
+    {
+        "id_habilidade": 17,
+        "nome_habilidade": "immunity"
+    },
+    {
+        "id_habilidade": 18,
+        "nome_habilidade": "flash-fire"
+    },
+    {
+        "id_habilidade": 19,
+        "nome_habilidade": "shield-dust"
+    },
+    {
+        "id_habilidade": 20,
+        "nome_habilidade": "own-tempo"
+    },
+    {
+        "id_habilidade": 21,
+        "nome_habilidade": "suction-cups"
+    },
+    {
+        "id_habilidade": 22,
+        "nome_habilidade": "intimidate"
+    },
+    {
+        "id_habilidade": 23,
+        "nome_habilidade": "shadow-tag"
+    },
+    {
+        "id_habilidade": 24,
+        "nome_habilidade": "rough-skin"
+    },
+    {
+        "id_habilidade": 25,
+        "nome_habilidade": "wonder-guard"
+    },
+    {
+        "id_habilidade": 26,
+        "nome_habilidade": "levitate"
+    },
+    {
+        "id_habilidade": 27,
+        "nome_habilidade": "effect-spore"
+    },
+    {
+        "id_habilidade": 28,
+        "nome_habilidade": "synchronize"
+    },
+    {
+        "id_habilidade": 29,
+        "nome_habilidade": "clear-body"
+    },
+    {
+        "id_habilidade": 30,
+        "nome_habilidade": "natural-cure"
+    },
+    {
+        "id_habilidade": 31,
+        "nome_habilidade": "lightning-rod"
+    },
+    {
+        "id_habilidade": 32,
+        "nome_habilidade": "serene-grace"
+    },
+    {
+        "id_habilidade": 33,
+        "nome_habilidade": "swift-swim"
+    },
+    {
+        "id_habilidade": 34,
+        "nome_habilidade": "chlorophyll"
+    },
+    {
+        "id_habilidade": 35,
+        "nome_habilidade": "illuminate"
+    },
+    {
+        "id_habilidade": 36,
+        "nome_habilidade": "trace"
+    },
+    {
+        "id_habilidade": 37,
+        "nome_habilidade": "huge-power"
+    },
+    {
+        "id_habilidade": 38,
+        "nome_habilidade": "poison-point"
+    },
+    {
+        "id_habilidade": 39,
+        "nome_habilidade": "inner-focus"
+    },
+    {
+        "id_habilidade": 40,
+        "nome_habilidade": "magma-armor"
+    },
+    {
+        "id_habilidade": 41,
+        "nome_habilidade": "water-veil"
+    },
+    {
+        "id_habilidade": 42,
+        "nome_habilidade": "magnet-pull"
+    },
+    {
+        "id_habilidade": 43,
+        "nome_habilidade": "soundproof"
+    },
+    {
+        "id_habilidade": 44,
+        "nome_habilidade": "rain-dish"
+    },
+    {
+        "id_habilidade": 45,
+        "nome_habilidade": "sand-stream"
+    },
+    {
+        "id_habilidade": 46,
+        "nome_habilidade": "pressure"
+    },
+    {
+        "id_habilidade": 47,
+        "nome_habilidade": "thick-fat"
+    },
+    {
+        "id_habilidade": 48,
+        "nome_habilidade": "early-bird"
+    },
+    {
+        "id_habilidade": 49,
+        "nome_habilidade": "flame-body"
+    },
+    {
+        "id_habilidade": 50,
+        "nome_habilidade": "run-away"
+    },
+    {
+        "id_habilidade": 51,
+        "nome_habilidade": "keen-eye"
+    },
+    {
+        "id_habilidade": 52,
+        "nome_habilidade": "hyper-cutter"
+    },
+    {
+        "id_habilidade": 53,
+        "nome_habilidade": "pickup"
+    },
+    {
+        "id_habilidade": 54,
+        "nome_habilidade": "truant"
+    },
+    {
+        "id_habilidade": 55,
+        "nome_habilidade": "hustle"
+    },
+    {
+        "id_habilidade": 56,
+        "nome_habilidade": "cute-charm"
+    },
+    {
+        "id_habilidade": 57,
+        "nome_habilidade": "plus"
+    },
+    {
+        "id_habilidade": 58,
+        "nome_habilidade": "minus"
+    },
+    {
+        "id_habilidade": 59,
+        "nome_habilidade": "forecast"
+    },
+    {
+        "id_habilidade": 60,
+        "nome_habilidade": "sticky-hold"
+    },
+    {
+        "id_habilidade": 61,
+        "nome_habilidade": "shed-skin"
+    },
+    {
+        "id_habilidade": 62,
+        "nome_habilidade": "guts"
+    },
+    {
+        "id_habilidade": 63,
+        "nome_habilidade": "marvel-scale"
+    },
+    {
+        "id_habilidade": 64,
+        "nome_habilidade": "liquid-ooze"
+    },
+    {
+        "id_habilidade": 65,
+        "nome_habilidade": "overgrow"
+    },
+    {
+        "id_habilidade": 66,
+        "nome_habilidade": "blaze"
+    },
+    {
+        "id_habilidade": 67,
+        "nome_habilidade": "torrent"
+    },
+    {
+        "id_habilidade": 68,
+        "nome_habilidade": "swarm"
+    },
+    {
+        "id_habilidade": 69,
+        "nome_habilidade": "rock-head"
+    },
+    {
+        "id_habilidade": 70,
+        "nome_habilidade": "drought"
+    },
+    {
+        "id_habilidade": 71,
+        "nome_habilidade": "arena-trap"
+    },
+    {
+        "id_habilidade": 72,
+        "nome_habilidade": "vital-spirit"
+    },
+    {
+        "id_habilidade": 73,
+        "nome_habilidade": "white-smoke"
+    },
+    {
+        "id_habilidade": 74,
+        "nome_habilidade": "pure-power"
+    },
+    {
+        "id_habilidade": 75,
+        "nome_habilidade": "shell-armor"
+    },
+    {
+        "id_habilidade": 76,
+        "nome_habilidade": "air-lock"
+    },
+    {
+        "id_habilidade": 77,
+        "nome_habilidade": "tangled-feet"
+    },
+    {
+        "id_habilidade": 78,
+        "nome_habilidade": "motor-drive"
+    },
+    {
+        "id_habilidade": 79,
+        "nome_habilidade": "rivalry"
+    },
+    {
+        "id_habilidade": 80,
+        "nome_habilidade": "steadfast"
+    },
+    {
+        "id_habilidade": 81,
+        "nome_habilidade": "snow-cloak"
+    },
+    {
+        "id_habilidade": 82,
+        "nome_habilidade": "gluttony"
+    },
+    {
+        "id_habilidade": 83,
+        "nome_habilidade": "anger-point"
+    },
+    {
+        "id_habilidade": 84,
+        "nome_habilidade": "unburden"
+    },
+    {
+        "id_habilidade": 85,
+        "nome_habilidade": "heatproof"
+    },
+    {
+        "id_habilidade": 86,
+        "nome_habilidade": "simple"
+    },
+    {
+        "id_habilidade": 87,
+        "nome_habilidade": "dry-skin"
+    },
+    {
+        "id_habilidade": 88,
+        "nome_habilidade": "download"
+    },
+    {
+        "id_habilidade": 89,
+        "nome_habilidade": "iron-fist"
+    },
+    {
+        "id_habilidade": 90,
+        "nome_habilidade": "poison-heal"
+    },
+    {
+        "id_habilidade": 91,
+        "nome_habilidade": "adaptability"
+    },
+    {
+        "id_habilidade": 92,
+        "nome_habilidade": "skill-link"
+    },
+    {
+        "id_habilidade": 93,
+        "nome_habilidade": "hydration"
+    },
+    {
+        "id_habilidade": 94,
+        "nome_habilidade": "solar-power"
+    },
+    {
+        "id_habilidade": 95,
+        "nome_habilidade": "quick-feet"
+    },
+    {
+        "id_habilidade": 96,
+        "nome_habilidade": "normalize"
+    },
+    {
+        "id_habilidade": 97,
+        "nome_habilidade": "sniper"
+    },
+    {
+        "id_habilidade": 98,
+        "nome_habilidade": "magic-guard"
+    },
+    {
+        "id_habilidade": 99,
+        "nome_habilidade": "no-guard"
+    },
+    {
+        "id_habilidade": 100,
+        "nome_habilidade": "stall"
+    },
+    {
+        "id_habilidade": 101,
+        "nome_habilidade": "technician"
+    },
+    {
+        "id_habilidade": 102,
+        "nome_habilidade": "leaf-guard"
+    },
+    {
+        "id_habilidade": 103,
+        "nome_habilidade": "klutz"
+    },
+    {
+        "id_habilidade": 104,
+        "nome_habilidade": "mold-breaker"
+    },
+    {
+        "id_habilidade": 105,
+        "nome_habilidade": "super-luck"
+    },
+    {
+        "id_habilidade": 106,
+        "nome_habilidade": "aftermath"
+    },
+    {
+        "id_habilidade": 107,
+        "nome_habilidade": "anticipation"
+    },
+    {
+        "id_habilidade": 108,
+        "nome_habilidade": "forewarn"
+    },
+    {
+        "id_habilidade": 109,
+        "nome_habilidade": "unaware"
+    },
+    {
+        "id_habilidade": 110,
+        "nome_habilidade": "tinted-lens"
+    },
+    {
+        "id_habilidade": 111,
+        "nome_habilidade": "filter"
+    },
+    {
+        "id_habilidade": 112,
+        "nome_habilidade": "slow-start"
+    },
+    {
+        "id_habilidade": 113,
+        "nome_habilidade": "scrappy"
+    },
+    {
+        "id_habilidade": 114,
+        "nome_habilidade": "storm-drain"
+    },
+    {
+        "id_habilidade": 115,
+        "nome_habilidade": "ice-body"
+    },
+    {
+        "id_habilidade": 116,
+        "nome_habilidade": "solid-rock"
+    },
+    {
+        "id_habilidade": 117,
+        "nome_habilidade": "snow-warning"
+    },
+    {
+        "id_habilidade": 118,
+        "nome_habilidade": "honey-gather"
+    },
+    {
+        "id_habilidade": 119,
+        "nome_habilidade": "frisk"
+    },
+    {
+        "id_habilidade": 120,
+        "nome_habilidade": "reckless"
+    },
+    {
+        "id_habilidade": 121,
+        "nome_habilidade": "multitype"
+    },
+    {
+        "id_habilidade": 122,
+        "nome_habilidade": "flower-gift"
+    },
+    {
+        "id_habilidade": 123,
+        "nome_habilidade": "bad-dreams"
+    },
+    {
+        "id_habilidade": 124,
+        "nome_habilidade": "pickpocket"
+    },
+    {
+        "id_habilidade": 125,
+        "nome_habilidade": "sheer-force"
+    },
+    {
+        "id_habilidade": 126,
+        "nome_habilidade": "contrary"
+    },
+    {
+        "id_habilidade": 127,
+        "nome_habilidade": "unnerve"
+    },
+    {
+        "id_habilidade": 128,
+        "nome_habilidade": "defiant"
+    },
+    {
+        "id_habilidade": 129,
+        "nome_habilidade": "defeatist"
+    },
+    {
+        "id_habilidade": 130,
+        "nome_habilidade": "cursed-body"
+    },
+    {
+        "id_habilidade": 131,
+        "nome_habilidade": "healer"
+    },
+    {
+        "id_habilidade": 132,
+        "nome_habilidade": "friend-guard"
+    },
+    {
+        "id_habilidade": 133,
+        "nome_habilidade": "weak-armor"
+    },
+    {
+        "id_habilidade": 134,
+        "nome_habilidade": "heavy-metal"
+    },
+    {
+        "id_habilidade": 135,
+        "nome_habilidade": "light-metal"
+    },
+    {
+        "id_habilidade": 136,
+        "nome_habilidade": "multiscale"
+    },
+    {
+        "id_habilidade": 137,
+        "nome_habilidade": "toxic-boost"
+    },
+    {
+        "id_habilidade": 138,
+        "nome_habilidade": "flare-boost"
+    },
+    {
+        "id_habilidade": 139,
+        "nome_habilidade": "harvest"
+    },
+    {
+        "id_habilidade": 140,
+        "nome_habilidade": "telepathy"
+    },
+    {
+        "id_habilidade": 141,
+        "nome_habilidade": "moody"
+    },
+    {
+        "id_habilidade": 142,
+        "nome_habilidade": "overcoat"
+    },
+    {
+        "id_habilidade": 143,
+        "nome_habilidade": "poison-touch"
+    },
+    {
+        "id_habilidade": 144,
+        "nome_habilidade": "regenerator"
+    },
+    {
+        "id_habilidade": 145,
+        "nome_habilidade": "big-pecks"
+    },
+    {
+        "id_habilidade": 146,
+        "nome_habilidade": "sand-rush"
+    },
+    {
+        "id_habilidade": 147,
+        "nome_habilidade": "wonder-skin"
+    },
+    {
+        "id_habilidade": 148,
+        "nome_habilidade": "analytic"
+    },
+    {
+        "id_habilidade": 149,
+        "nome_habilidade": "illusion"
+    },
+    {
+        "id_habilidade": 150,
+        "nome_habilidade": "imposter"
+    },
+    {
+        "id_habilidade": 151,
+        "nome_habilidade": "infiltrator"
+    },
+    {
+        "id_habilidade": 152,
+        "nome_habilidade": "mummy"
+    },
+    {
+        "id_habilidade": 153,
+        "nome_habilidade": "moxie"
+    },
+    {
+        "id_habilidade": 154,
+        "nome_habilidade": "justified"
+    },
+    {
+        "id_habilidade": 155,
+        "nome_habilidade": "rattled"
+    },
+    {
+        "id_habilidade": 156,
+        "nome_habilidade": "magic-bounce"
+    },
+    {
+        "id_habilidade": 157,
+        "nome_habilidade": "sap-sipper"
+    },
+    {
+        "id_habilidade": 158,
+        "nome_habilidade": "prankster"
+    },
+    {
+        "id_habilidade": 159,
+        "nome_habilidade": "sand-force"
+    },
+    {
+        "id_habilidade": 160,
+        "nome_habilidade": "iron-barbs"
+    },
+    {
+        "id_habilidade": 161,
+        "nome_habilidade": "zen-mode"
+    },
+    {
+        "id_habilidade": 162,
+        "nome_habilidade": "victory-star"
+    },
+    {
+        "id_habilidade": 163,
+        "nome_habilidade": "turboblaze"
+    },
+    {
+        "id_habilidade": 164,
+        "nome_habilidade": "teravolt"
+    },
+    {
+        "id_habilidade": 165,
+        "nome_habilidade": "aroma-veil"
+    },
+    {
+        "id_habilidade": 166,
+        "nome_habilidade": "flower-veil"
+    },
+    {
+        "id_habilidade": 167,
+        "nome_habilidade": "cheek-pouch"
+    },
+    {
+        "id_habilidade": 168,
+        "nome_habilidade": "protean"
+    },
+    {
+        "id_habilidade": 169,
+        "nome_habilidade": "fur-coat"
+    },
+    {
+        "id_habilidade": 170,
+        "nome_habilidade": "magician"
+    },
+    {
+        "id_habilidade": 171,
+        "nome_habilidade": "bulletproof"
+    },
+    {
+        "id_habilidade": 172,
+        "nome_habilidade": "competitive"
+    },
+    {
+        "id_habilidade": 173,
+        "nome_habilidade": "strong-jaw"
+    },
+    {
+        "id_habilidade": 174,
+        "nome_habilidade": "refrigerate"
+    },
+    {
+        "id_habilidade": 175,
+        "nome_habilidade": "sweet-veil"
+    },
+    {
+        "id_habilidade": 176,
+        "nome_habilidade": "stance-change"
+    },
+    {
+        "id_habilidade": 177,
+        "nome_habilidade": "gale-wings"
+    },
+    {
+        "id_habilidade": 178,
+        "nome_habilidade": "mega-launcher"
+    },
+    {
+        "id_habilidade": 179,
+        "nome_habilidade": "grass-pelt"
+    },
+    {
+        "id_habilidade": 180,
+        "nome_habilidade": "symbiosis"
+    },
+    {
+        "id_habilidade": 181,
+        "nome_habilidade": "tough-claws"
+    },
+    {
+        "id_habilidade": 182,
+        "nome_habilidade": "pixilate"
+    },
+    {
+        "id_habilidade": 183,
+        "nome_habilidade": "gooey"
+    },
+    {
+        "id_habilidade": 184,
+        "nome_habilidade": "aerilate"
+    },
+    {
+        "id_habilidade": 185,
+        "nome_habilidade": "parental-bond"
+    },
+    {
+        "id_habilidade": 186,
+        "nome_habilidade": "dark-aura"
+    },
+    {
+        "id_habilidade": 187,
+        "nome_habilidade": "fairy-aura"
+    },
+    {
+        "id_habilidade": 188,
+        "nome_habilidade": "aura-break"
+    },
+    {
+        "id_habilidade": 189,
+        "nome_habilidade": "primordial-sea"
+    },
+    {
+        "id_habilidade": 190,
+        "nome_habilidade": "desolate-land"
+    },
+    {
+        "id_habilidade": 191,
+        "nome_habilidade": "delta-stream"
+    },
+    {
+        "id_habilidade": 192,
+        "nome_habilidade": "stamina"
+    },
+    {
+        "id_habilidade": 193,
+        "nome_habilidade": "wimp-out"
+    },
+    {
+        "id_habilidade": 194,
+        "nome_habilidade": "emergency-exit"
+    },
+    {
+        "id_habilidade": 195,
+        "nome_habilidade": "water-compaction"
+    },
+    {
+        "id_habilidade": 196,
+        "nome_habilidade": "merciless"
+    },
+    {
+        "id_habilidade": 197,
+        "nome_habilidade": "shields-down"
+    },
+    {
+        "id_habilidade": 198,
+        "nome_habilidade": "stakeout"
+    },
+    {
+        "id_habilidade": 199,
+        "nome_habilidade": "water-bubble"
+    },
+    {
+        "id_habilidade": 200,
+        "nome_habilidade": "steelworker"
+    },
+    {
+        "id_habilidade": 201,
+        "nome_habilidade": "berserk"
+    },
+    {
+        "id_habilidade": 202,
+        "nome_habilidade": "slush-rush"
+    },
+    {
+        "id_habilidade": 203,
+        "nome_habilidade": "long-reach"
+    },
+    {
+        "id_habilidade": 204,
+        "nome_habilidade": "liquid-voice"
+    },
+    {
+        "id_habilidade": 205,
+        "nome_habilidade": "triage"
+    },
+    {
+        "id_habilidade": 206,
+        "nome_habilidade": "galvanize"
+    },
+    {
+        "id_habilidade": 207,
+        "nome_habilidade": "surge-surfer"
+    },
+    {
+        "id_habilidade": 208,
+        "nome_habilidade": "schooling"
+    },
+    {
+        "id_habilidade": 209,
+        "nome_habilidade": "disguise"
+    },
+    {
+        "id_habilidade": 210,
+        "nome_habilidade": "battle-bond"
+    },
+    {
+        "id_habilidade": 211,
+        "nome_habilidade": "power-construct"
+    },
+    {
+        "id_habilidade": 212,
+        "nome_habilidade": "corrosion"
+    },
+    {
+        "id_habilidade": 213,
+        "nome_habilidade": "comatose"
+    },
+    {
+        "id_habilidade": 214,
+        "nome_habilidade": "queenly-majesty"
+    },
+    {
+        "id_habilidade": 215,
+        "nome_habilidade": "innards-out"
+    },
+    {
+        "id_habilidade": 216,
+        "nome_habilidade": "dancer"
+    },
+    {
+        "id_habilidade": 217,
+        "nome_habilidade": "battery"
+    },
+    {
+        "id_habilidade": 218,
+        "nome_habilidade": "fluffy"
+    },
+    {
+        "id_habilidade": 219,
+        "nome_habilidade": "dazzling"
+    },
+    {
+        "id_habilidade": 220,
+        "nome_habilidade": "soul-heart"
+    },
+    {
+        "id_habilidade": 221,
+        "nome_habilidade": "tangling-hair"
+    },
+    {
+        "id_habilidade": 222,
+        "nome_habilidade": "receiver"
+    },
+    {
+        "id_habilidade": 223,
+        "nome_habilidade": "power-of-alchemy"
+    },
+    {
+        "id_habilidade": 224,
+        "nome_habilidade": "beast-boost"
+    },
+    {
+        "id_habilidade": 225,
+        "nome_habilidade": "rks-system"
+    },
+    {
+        "id_habilidade": 226,
+        "nome_habilidade": "electric-surge"
+    },
+    {
+        "id_habilidade": 227,
+        "nome_habilidade": "psychic-surge"
+    },
+    {
+        "id_habilidade": 228,
+        "nome_habilidade": "misty-surge"
+    },
+    {
+        "id_habilidade": 229,
+        "nome_habilidade": "grassy-surge"
+    },
+    {
+        "id_habilidade": 230,
+        "nome_habilidade": "full-metal-body"
+    },
+    {
+        "id_habilidade": 231,
+        "nome_habilidade": "shadow-shield"
+    },
+    {
+        "id_habilidade": 232,
+        "nome_habilidade": "prism-armor"
+    },
+    {
+        "id_habilidade": 233,
+        "nome_habilidade": "neuroforce"
+    },
+    {
+        "id_habilidade": 234,
+        "nome_habilidade": "intrepid-sword"
+    },
+    {
+        "id_habilidade": 235,
+        "nome_habilidade": "dauntless-shield"
+    },
+    {
+        "id_habilidade": 236,
+        "nome_habilidade": "libero"
+    },
+    {
+        "id_habilidade": 237,
+        "nome_habilidade": "ball-fetch"
+    },
+    {
+        "id_habilidade": 238,
+        "nome_habilidade": "cotton-down"
+    },
+    {
+        "id_habilidade": 239,
+        "nome_habilidade": "propeller-tail"
+    },
+    {
+        "id_habilidade": 240,
+        "nome_habilidade": "mirror-armor"
+    },
+    {
+        "id_habilidade": 241,
+        "nome_habilidade": "gulp-missile"
+    },
+    {
+        "id_habilidade": 242,
+        "nome_habilidade": "stalwart"
+    },
+    {
+        "id_habilidade": 243,
+        "nome_habilidade": "steam-engine"
+    },
+    {
+        "id_habilidade": 244,
+        "nome_habilidade": "punk-rock"
+    },
+    {
+        "id_habilidade": 245,
+        "nome_habilidade": "sand-spit"
+    },
+    {
+        "id_habilidade": 246,
+        "nome_habilidade": "ice-scales"
+    },
+    {
+        "id_habilidade": 247,
+        "nome_habilidade": "ripen"
+    },
+    {
+        "id_habilidade": 248,
+        "nome_habilidade": "ice-face"
+    },
+    {
+        "id_habilidade": 249,
+        "nome_habilidade": "power-spot"
+    },
+    {
+        "id_habilidade": 250,
+        "nome_habilidade": "mimicry"
+    },
+    {
+        "id_habilidade": 251,
+        "nome_habilidade": "screen-cleaner"
+    },
+    {
+        "id_habilidade": 252,
+        "nome_habilidade": "steely-spirit"
+    },
+    {
+        "id_habilidade": 253,
+        "nome_habilidade": "perish-body"
+    },
+    {
+        "id_habilidade": 254,
+        "nome_habilidade": "wandering-spirit"
+    },
+    {
+        "id_habilidade": 255,
+        "nome_habilidade": "gorilla-tactics"
+    },
+    {
+        "id_habilidade": 256,
+        "nome_habilidade": "neutralizing-gas"
+    },
+    {
+        "id_habilidade": 257,
+        "nome_habilidade": "pastel-veil"
+    },
+    {
+        "id_habilidade": 258,
+        "nome_habilidade": "hunger-switch"
+    },
+    {
+        "id_habilidade": 259,
+        "nome_habilidade": "quick-draw"
+    },
+    {
+        "id_habilidade": 260,
+        "nome_habilidade": "unseen-fist"
+    },
+    {
+        "id_habilidade": 261,
+        "nome_habilidade": "curious-medicine"
+    },
+    {
+        "id_habilidade": 262,
+        "nome_habilidade": "transistor"
+    },
+    {
+        "id_habilidade": 263,
+        "nome_habilidade": "dragons-maw"
+    },
+    {
+        "id_habilidade": 264,
+        "nome_habilidade": "chilling-neigh"
+    },
+    {
+        "id_habilidade": 265,
+        "nome_habilidade": "grim-neigh"
+    },
+    {
+        "id_habilidade": 266,
+        "nome_habilidade": "as-one-glastrier"
+    },
+    {
+        "id_habilidade": 267,
+        "nome_habilidade": "as-one-spectrier"
+    },
+    {
+        "id_habilidade": 268,
+        "nome_habilidade": "lingering-aroma"
+    },
+    {
+        "id_habilidade": 269,
+        "nome_habilidade": "seed-sower"
+    },
+    {
+        "id_habilidade": 270,
+        "nome_habilidade": "thermal-exchange"
+    },
+    {
+        "id_habilidade": 271,
+        "nome_habilidade": "anger-shell"
+    },
+    {
+        "id_habilidade": 272,
+        "nome_habilidade": "purifying-salt"
+    },
+    {
+        "id_habilidade": 273,
+        "nome_habilidade": "well-baked-body"
+    },
+    {
+        "id_habilidade": 274,
+        "nome_habilidade": "wind-rider"
+    },
+    {
+        "id_habilidade": 275,
+        "nome_habilidade": "guard-dog"
+    },
+    {
+        "id_habilidade": 276,
+        "nome_habilidade": "rocky-payload"
+    },
+    {
+        "id_habilidade": 277,
+        "nome_habilidade": "wind-power"
+    },
+    {
+        "id_habilidade": 278,
+        "nome_habilidade": "zero-to-hero"
+    },
+    {
+        "id_habilidade": 279,
+        "nome_habilidade": "commander"
+    },
+    {
+        "id_habilidade": 280,
+        "nome_habilidade": "electromorphosis"
+    },
+    {
+        "id_habilidade": 281,
+        "nome_habilidade": "protosynthesis"
+    },
+    {
+        "id_habilidade": 282,
+        "nome_habilidade": "quark-drive"
+    },
+    {
+        "id_habilidade": 283,
+        "nome_habilidade": "good-as-gold"
+    },
+    {
+        "id_habilidade": 284,
+        "nome_habilidade": "vessel-of-ruin"
+    },
+    {
+        "id_habilidade": 285,
+        "nome_habilidade": "sword-of-ruin"
+    },
+    {
+        "id_habilidade": 286,
+        "nome_habilidade": "tablets-of-ruin"
+    },
+    {
+        "id_habilidade": 287,
+        "nome_habilidade": "beads-of-ruin"
+    },
+    {
+        "id_habilidade": 288,
+        "nome_habilidade": "orichalcum-pulse"
+    },
+    {
+        "id_habilidade": 289,
+        "nome_habilidade": "hadron-engine"
+    },
+    {
+        "id_habilidade": 290,
+        "nome_habilidade": "opportunist"
+    },
+    {
+        "id_habilidade": 291,
+        "nome_habilidade": "cud-chew"
+    },
+    {
+        "id_habilidade": 292,
+        "nome_habilidade": "sharpness"
+    },
+    {
+        "id_habilidade": 293,
+        "nome_habilidade": "supreme-overlord"
+    },
+    {
+        "id_habilidade": 294,
+        "nome_habilidade": "costar"
+    },
+    {
+        "id_habilidade": 295,
+        "nome_habilidade": "toxic-debris"
+    },
+    {
+        "id_habilidade": 296,
+        "nome_habilidade": "armor-tail"
+    },
+    {
+        "id_habilidade": 297,
+        "nome_habilidade": "earth-eater"
+    },
+    {
+        "id_habilidade": 298,
+        "nome_habilidade": "mycelium-might"
+    },
+    {
+        "id_habilidade": 299,
+        "nome_habilidade": "minds-eye"
+    },
+    {
+        "id_habilidade": 300,
+        "nome_habilidade": "supersweet-syrup"
+    },
+    {
+        "id_habilidade": 301,
+        "nome_habilidade": "hospitality"
+    },
+    {
+        "id_habilidade": 302,
+        "nome_habilidade": "toxic-chain"
+    },
+    {
+        "id_habilidade": 303,
+        "nome_habilidade": "embody-aspect"
+    },
+    {
+        "id_habilidade": 304,
+        "nome_habilidade": "tera-shift"
+    },
+    {
+        "id_habilidade": 305,
+        "nome_habilidade": "tera-shell"
+    },
+    {
+        "id_habilidade": 306,
+        "nome_habilidade": "teraform-zero"
+    },
+    {
+        "id_habilidade": 307,
+        "nome_habilidade": "poison-puppeteer"
+    },
+    {
+        "id_habilidade": 308,
+        "nome_habilidade": "piercing-drill"
+    },
+    {
+        "id_habilidade": 309,
+        "nome_habilidade": "dragonize"
+    },
+    {
+        "id_habilidade": 310,
+        "nome_habilidade": "mega-sol"
+    },
+    {
+        "id_habilidade": 311,
+        "nome_habilidade": "spicy-spray"
+    },
+    {
+        "id_habilidade": 312,
+        "nome_habilidade": "mountaineer"
+    },
+    {
+        "id_habilidade": 313,
+        "nome_habilidade": "wave-rider"
+    },
+    {
+        "id_habilidade": 314,
+        "nome_habilidade": "skater"
+    },
+    {
+        "id_habilidade": 315,
+        "nome_habilidade": "thrust"
+    },
+    {
+        "id_habilidade": 316,
+        "nome_habilidade": "perception"
+    },
+    {
+        "id_habilidade": 317,
+        "nome_habilidade": "parry"
+    },
+    {
+        "id_habilidade": 318,
+        "nome_habilidade": "instinct"
+    },
+    {
+        "id_habilidade": 319,
+        "nome_habilidade": "dodge"
+    },
+    {
+        "id_habilidade": 320,
+        "nome_habilidade": "jagged-edge"
+    },
+    {
+        "id_habilidade": 321,
+        "nome_habilidade": "frostbite"
+    },
+    {
+        "id_habilidade": 322,
+        "nome_habilidade": "tenacity"
+    },
+    {
+        "id_habilidade": 323,
+        "nome_habilidade": "pride"
+    },
+    {
+        "id_habilidade": 324,
+        "nome_habilidade": "deep-sleep"
+    },
+    {
+        "id_habilidade": 325,
+        "nome_habilidade": "power-nap"
+    },
+    {
+        "id_habilidade": 326,
+        "nome_habilidade": "spirit"
+    },
+    {
+        "id_habilidade": 327,
+        "nome_habilidade": "warm-blanket"
+    },
+    {
+        "id_habilidade": 328,
+        "nome_habilidade": "gulp"
+    },
+    {
+        "id_habilidade": 329,
+        "nome_habilidade": "herbivore"
+    },
+    {
+        "id_habilidade": 330,
+        "nome_habilidade": "sandpit"
+    },
+    {
+        "id_habilidade": 331,
+        "nome_habilidade": "hot-blooded"
+    },
+    {
+        "id_habilidade": 332,
+        "nome_habilidade": "medic"
+    },
+    {
+        "id_habilidade": 333,
+        "nome_habilidade": "life-force"
+    },
+    {
+        "id_habilidade": 334,
+        "nome_habilidade": "lunchbox"
+    },
+    {
+        "id_habilidade": 335,
+        "nome_habilidade": "nurse"
+    },
+    {
+        "id_habilidade": 336,
+        "nome_habilidade": "melee"
+    },
+    {
+        "id_habilidade": 337,
+        "nome_habilidade": "sponge"
+    },
+    {
+        "id_habilidade": 338,
+        "nome_habilidade": "bodyguard"
+    },
+    {
+        "id_habilidade": 339,
+        "nome_habilidade": "hero"
+    },
+    {
+        "id_habilidade": 340,
+        "nome_habilidade": "last-bastion"
+    },
+    {
+        "id_habilidade": 341,
+        "nome_habilidade": "stealth"
+    },
+    {
+        "id_habilidade": 342,
+        "nome_habilidade": "vanguard"
+    },
+    {
+        "id_habilidade": 343,
+        "nome_habilidade": "nomad"
+    },
+    {
+        "id_habilidade": 344,
+        "nome_habilidade": "sequence"
+    },
+    {
+        "id_habilidade": 345,
+        "nome_habilidade": "grass-cloak"
+    },
+    {
+        "id_habilidade": 346,
+        "nome_habilidade": "celebrate"
+    },
+    {
+        "id_habilidade": 347,
+        "nome_habilidade": "lullaby"
+    },
+    {
+        "id_habilidade": 348,
+        "nome_habilidade": "calming"
+    },
+    {
+        "id_habilidade": 349,
+        "nome_habilidade": "daze"
+    },
+    {
+        "id_habilidade": 350,
+        "nome_habilidade": "frighten"
+    },
+    {
+        "id_habilidade": 351,
+        "nome_habilidade": "interference"
+    },
+    {
+        "id_habilidade": 352,
+        "nome_habilidade": "mood-maker"
+    },
+    {
+        "id_habilidade": 353,
+        "nome_habilidade": "confidence"
+    },
+    {
+        "id_habilidade": 354,
+        "nome_habilidade": "fortune"
+    },
+    {
+        "id_habilidade": 355,
+        "nome_habilidade": "bonanza"
+    },
+    {
+        "id_habilidade": 356,
+        "nome_habilidade": "explode"
+    },
+    {
+        "id_habilidade": 357,
+        "nome_habilidade": "omnipotent"
+    },
+    {
+        "id_habilidade": 358,
+        "nome_habilidade": "share"
+    },
+    {
+        "id_habilidade": 359,
+        "nome_habilidade": "black-hole"
+    },
+    {
+        "id_habilidade": 360,
+        "nome_habilidade": "shadow-dash"
+    },
+    {
+        "id_habilidade": 361,
+        "nome_habilidade": "sprint"
+    },
+    {
+        "id_habilidade": 362,
+        "nome_habilidade": "disgust"
+    },
+    {
+        "id_habilidade": 363,
+        "nome_habilidade": "high-rise"
+    },
+    {
+        "id_habilidade": 364,
+        "nome_habilidade": "climber"
+    },
+    {
+        "id_habilidade": 365,
+        "nome_habilidade": "flame-boost"
+    },
+    {
+        "id_habilidade": 366,
+        "nome_habilidade": "aqua-boost"
+    },
+    {
+        "id_habilidade": 367,
+        "nome_habilidade": "run-up"
+    },
+    {
+        "id_habilidade": 368,
+        "nome_habilidade": "conqueror"
+    },
+    {
+        "id_habilidade": 369,
+        "nome_habilidade": "shackle"
+    },
+    {
+        "id_habilidade": 370,
+        "nome_habilidade": "decoy"
+    },
+    {
+        "id_habilidade": 371,
+        "nome_habilidade": "shield"
+    }
+]

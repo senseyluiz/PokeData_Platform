@@ -1,10 +1,13 @@
 import requests
 import json
-import os
+from pathlib import Path
+
+from scripts.utils.file_utils import save_to_json
 
 BASE_URL = "https://pokeapi.co/api/v2/ability/"
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-OUTPUT_PATH = os.path.join(BASE_DIR, "data/lake/raw/abilities.json")
+
+BASE_DIR = Path(__file__).resolve().parents[2]
+OUTPUT_PATH = BASE_DIR / "data/lake/raw/abilities.json"
 
 def extract_abilities():
     url = BASE_URL
@@ -22,14 +25,10 @@ def extract_abilities():
 
     return all_abilities
 
-def save_abilities(data):
-    print(f"Salvando em: {OUTPUT_PATH}")
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+
 
 
 if __name__ == "__main__":
     abilities = extract_abilities()
-    save_abilities(abilities)
+    save_to_json(abilities, OUTPUT_PATH)
     print(f"{len(abilities)} habilidades encontrados com sucesso")

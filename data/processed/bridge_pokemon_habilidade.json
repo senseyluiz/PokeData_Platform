@@ -1,0 +1,382 @@
+[
+    {
+        "id_pokemon": 1,
+        "id_habilidade": 65
+    },
+    {
+        "id_pokemon": 1,
+        "id_habilidade": 34
+    },
+    {
+        "id_pokemon": 2,
+        "id_habilidade": 65
+    },
+    {
+        "id_pokemon": 2,
+        "id_habilidade": 34
+    },
+    {
+        "id_pokemon": 3,
+        "id_habilidade": 65
+    },
+    {
+        "id_pokemon": 3,
+        "id_habilidade": 34
+    },
+    {
+        "id_pokemon": 4,
+        "id_habilidade": 66
+    },
+    {
+        "id_pokemon": 4,
+        "id_habilidade": 94
+    },
+    {
+        "id_pokemon": 5,
+        "id_habilidade": 66
+    },
+    {
+        "id_pokemon": 5,
+        "id_habilidade": 94
+    },
+    {
+        "id_pokemon": 6,
+        "id_habilidade": 66
+    },
+    {
+        "id_pokemon": 6,
+        "id_habilidade": 94
+    },
+    {
+        "id_pokemon": 7,
+        "id_habilidade": 67
+    },
+    {
+        "id_pokemon": 7,
+        "id_habilidade": 44
+    },
+    {
+        "id_pokemon": 8,
+        "id_habilidade": 67
+    },
+    {
+        "id_pokemon": 8,
+        "id_habilidade": 44
+    },
+    {
+        "id_pokemon": 9,
+        "id_habilidade": 67
+    },
+    {
+        "id_pokemon": 9,
+        "id_habilidade": 44
+    },
+    {
+        "id_pokemon": 10,
+        "id_habilidade": 19
+    },
+    {
+        "id_pokemon": 10,
+        "id_habilidade": 50
+    },
+    {
+        "id_pokemon": 11,
+        "id_habilidade": 61
+    },
+    {
+        "id_pokemon": 12,
+        "id_habilidade": 14
+    },
+    {
+        "id_pokemon": 12,
+        "id_habilidade": 110
+    },
+    {
+        "id_pokemon": 13,
+        "id_habilidade": 19
+    },
+    {
+        "id_pokemon": 13,
+        "id_habilidade": 50
+    },
+    {
+        "id_pokemon": 14,
+        "id_habilidade": 61
+    },
+    {
+        "id_pokemon": 15,
+        "id_habilidade": 68
+    },
+    {
+        "id_pokemon": 15,
+        "id_habilidade": 97
+    },
+    {
+        "id_pokemon": 16,
+        "id_habilidade": 51
+    },
+    {
+        "id_pokemon": 16,
+        "id_habilidade": 77
+    },
+    {
+        "id_pokemon": 16,
+        "id_habilidade": 145
+    },
+    {
+        "id_pokemon": 17,
+        "id_habilidade": 51
+    },
+    {
+        "id_pokemon": 17,
+        "id_habilidade": 77
+    },
+    {
+        "id_pokemon": 17,
+        "id_habilidade": 145
+    },
+    {
+        "id_pokemon": 18,
+        "id_habilidade": 51
+    },
+    {
+        "id_pokemon": 18,
+        "id_habilidade": 77
+    },
+    {
+        "id_pokemon": 18,
+        "id_habilidade": 145
+    },
+    {
+        "id_pokemon": 19,
+        "id_habilidade": 50
+    },
+    {
+        "id_pokemon": 19,
+        "id_habilidade": 62
+    },
+    {
+        "id_pokemon": 19,
+        "id_habilidade": 55
+    },
+    {
+        "id_pokemon": 20,
+        "id_habilidade": 50
+    },
+    {
+        "id_pokemon": 20,
+        "id_habilidade": 62
+    },
+    {
+        "id_pokemon": 20,
+        "id_habilidade": 55
+    },
+    {
+        "id_pokemon": 21,
+        "id_habilidade": 51
+    },
+    {
+        "id_pokemon": 21,
+        "id_habilidade": 97
+    },
+    {
+        "id_pokemon": 22,
+        "id_habilidade": 51
+    },
+    {
+        "id_pokemon": 22,
+        "id_habilidade": 97
+    },
+    {
+        "id_pokemon": 23,
+        "id_habilidade": 22
+    },
+    {
+        "id_pokemon": 23,
+        "id_habilidade": 61
+    },
+    {
+        "id_pokemon": 23,
+        "id_habilidade": 127
+    },
+    {
+        "id_pokemon": 24,
+        "id_habilidade": 22
+    },
+    {
+        "id_pokemon": 24,
+        "id_habilidade": 61
+    },
+    {
+        "id_pokemon": 24,
+        "id_habilidade": 127
+    },
+    {
+        "id_pokemon": 25,
+        "id_habilidade": 9
+    },
+    {
+        "id_pokemon": 25,
+        "id_habilidade": 31
+    },
+    {
+        "id_pokemon": 26,
+        "id_habilidade": 9
+    },
+    {
+        "id_pokemon": 26,
+        "id_habilidade": 31
+    },
+    {
+        "id_pokemon": 27,
+        "id_habilidade": 8
+    },
+    {
+        "id_pokemon": 27,
+        "id_habilidade": 146
+    },
+    {
+        "id_pokemon": 28,
+        "id_habilidade": 8
+    },
+    {
+        "id_pokemon": 28,
+        "id_habilidade": 146
+    },
+    {
+        "id_pokemon": 29,
+        "id_habilidade": 38
+    },
+    {
+        "id_pokemon": 29,
+        "id_habilidade": 79
+    },
+    {
+        "id_pokemon": 29,
+        "id_habilidade": 55
+    },
+    {
+        "id_pokemon": 30,
+        "id_habilidade": 38
+    },
+    {
+        "id_pokemon": 30,
+        "id_habilidade": 79
+    },
+    {
+        "id_pokemon": 30,
+        "id_habilidade": 55
+    },
+    {
+        "id_pokemon": 31,
+        "id_habilidade": 38
+    },
+    {
+        "id_pokemon": 31,
+        "id_habilidade": 79
+    },
+    {
+        "id_pokemon": 31,
+        "id_habilidade": 125
+    },
+    {
+        "id_pokemon": 32,
+        "id_habilidade": 38
+    },
+    {
+        "id_pokemon": 32,
+        "id_habilidade": 79
+    },
+    {
+        "id_pokemon": 32,
+        "id_habilidade": 55
+    },
+    {
+        "id_pokemon": 33,
+        "id_habilidade": 38
+    },
+    {
+        "id_pokemon": 33,
+        "id_habilidade": 79
+    },
+    {
+        "id_pokemon": 33,
+        "id_habilidade": 55
+    },
+    {
+        "id_pokemon": 34,
+        "id_habilidade": 38
+    },
+    {
+        "id_pokemon": 34,
+        "id_habilidade": 79
+    },
+    {
+        "id_pokemon": 34,
+        "id_habilidade": 125
+    },
+    {
+        "id_pokemon": 35,
+        "id_habilidade": 56
+    },
+    {
+        "id_pokemon": 35,
+        "id_habilidade": 98
+    },
+    {
+        "id_pokemon": 35,
+        "id_habilidade": 132
+    },
+    {
+        "id_pokemon": 36,
+        "id_habilidade": 56
+    },
+    {
+        "id_pokemon": 36,
+        "id_habilidade": 98
+    },
+    {
+        "id_pokemon": 36,
+        "id_habilidade": 109
+    },
+    {
+        "id_pokemon": 37,
+        "id_habilidade": 18
+    },
+    {
+        "id_pokemon": 37,
+        "id_habilidade": 70
+    },
+    {
+        "id_pokemon": 38,
+        "id_habilidade": 18
+    },
+    {
+        "id_pokemon": 38,
+        "id_habilidade": 70
+    },
+    {
+        "id_pokemon": 39,
+        "id_habilidade": 56
+    },
+    {
+        "id_pokemon": 39,
+        "id_habilidade": 172
+    },
+    {
+        "id_pokemon": 39,
+        "id_habilidade": 132
+    },
+    {
+        "id_pokemon": 40,
+        "id_habilidade": 56
+    },
+    {
+        "id_pokemon": 40,
+        "id_habilidade": 172
+    },
+    {
+        "id_pokemon": 40,
+        "id_habilidade": 119
+    }
+]

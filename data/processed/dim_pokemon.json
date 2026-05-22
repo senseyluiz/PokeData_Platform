@@ -1,0 +1,322 @@
+[
+    {
+        "id_pokemon": 1,
+        "name": "bulbasaur",
+        "nome_pokemon": "bulbasaur",
+        "altura": 7,
+        "peso": 69,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    },
+    {
+        "id_pokemon": 2,
+        "name": "ivysaur",
+        "nome_pokemon": "ivysaur",
+        "altura": 10,
+        "peso": 130,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+    },
+    {
+        "id_pokemon": 3,
+        "name": "venusaur",
+        "nome_pokemon": "venusaur",
+        "altura": 20,
+        "peso": 1000,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+    },
+    {
+        "id_pokemon": 4,
+        "name": "charmander",
+        "nome_pokemon": "charmander",
+        "altura": 6,
+        "peso": 85,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+    },
+    {
+        "id_pokemon": 5,
+        "name": "charmeleon",
+        "nome_pokemon": "charmeleon",
+        "altura": 11,
+        "peso": 190,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+    },
+    {
+        "id_pokemon": 6,
+        "name": "charizard",
+        "nome_pokemon": "charizard",
+        "altura": 17,
+        "peso": 905,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+    },
+    {
+        "id_pokemon": 7,
+        "name": "squirtle",
+        "nome_pokemon": "squirtle",
+        "altura": 5,
+        "peso": 90,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+    },
+    {
+        "id_pokemon": 8,
+        "name": "wartortle",
+        "nome_pokemon": "wartortle",
+        "altura": 10,
+        "peso": 225,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+    },
+    {
+        "id_pokemon": 9,
+        "name": "blastoise",
+        "nome_pokemon": "blastoise",
+        "altura": 16,
+        "peso": 855,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+    },
+    {
+        "id_pokemon": 10,
+        "name": "caterpie",
+        "nome_pokemon": "caterpie",
+        "altura": 3,
+        "peso": 29,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+    },
+    {
+        "id_pokemon": 11,
+        "name": "metapod",
+        "nome_pokemon": "metapod",
+        "altura": 7,
+        "peso": 99,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+    },
+    {
+        "id_pokemon": 12,
+        "name": "butterfree",
+        "nome_pokemon": "butterfree",
+        "altura": 11,
+        "peso": 320,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+    },
+    {
+        "id_pokemon": 13,
+        "name": "weedle",
+        "nome_pokemon": "weedle",
+        "altura": 3,
+        "peso": 32,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+    },
+    {
+        "id_pokemon": 14,
+        "name": "kakuna",
+        "nome_pokemon": "kakuna",
+        "altura": 6,
+        "peso": 100,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+    },
+    {
+        "id_pokemon": 15,
+        "name": "beedrill",
+        "nome_pokemon": "beedrill",
+        "altura": 10,
+        "peso": 295,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+    },
+    {
+        "id_pokemon": 16,
+        "name": "pidgey",
+        "nome_pokemon": "pidgey",
+        "altura": 3,
+        "peso": 18,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+    },
+    {
+        "id_pokemon": 17,
+        "name": "pidgeotto",
+        "nome_pokemon": "pidgeotto",
+        "altura": 11,
+        "peso": 300,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+    },
+    {
+        "id_pokemon": 18,
+        "name": "pidgeot",
+        "nome_pokemon": "pidgeot",
+        "altura": 15,
+        "peso": 395,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+    },
+    {
+        "id_pokemon": 19,
+        "name": "rattata",
+        "nome_pokemon": "rattata",
+        "altura": 3,
+        "peso": 35,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+    },
+    {
+        "id_pokemon": 20,
+        "name": "raticate",
+        "nome_pokemon": "raticate",
+        "altura": 7,
+        "peso": 185,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+    },
+    {
+        "id_pokemon": 21,
+        "name": "spearow",
+        "nome_pokemon": "spearow",
+        "altura": 3,
+        "peso": 20,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
+    },
+    {
+        "id_pokemon": 22,
+        "name": "fearow",
+        "nome_pokemon": "fearow",
+        "altura": 12,
+        "peso": 380,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
+    },
+    {
+        "id_pokemon": 23,
+        "name": "ekans",
+        "nome_pokemon": "ekans",
+        "altura": 20,
+        "peso": 69,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
+    },
+    {
+        "id_pokemon": 24,
+        "name": "arbok",
+        "nome_pokemon": "arbok",
+        "altura": 35,
+        "peso": 650,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
+    },
+    {
+        "id_pokemon": 25,
+        "name": "pikachu",
+        "nome_pokemon": "pikachu",
+        "altura": 4,
+        "peso": 60,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+    },
+    {
+        "id_pokemon": 26,
+        "name": "raichu",
+        "nome_pokemon": "raichu",
+        "altura": 8,
+        "peso": 300,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+    },
+    {
+        "id_pokemon": 27,
+        "name": "sandshrew",
+        "nome_pokemon": "sandshrew",
+        "altura": 6,
+        "peso": 120,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
+    },
+    {
+        "id_pokemon": 28,
+        "name": "sandslash",
+        "nome_pokemon": "sandslash",
+        "altura": 10,
+        "peso": 295,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
+    },
+    {
+        "id_pokemon": 29,
+        "name": "nidoran-f",
+        "nome_pokemon": "nidoran-f",
+        "altura": 4,
+        "peso": 70,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
+    },
+    {
+        "id_pokemon": 30,
+        "name": "nidorina",
+        "nome_pokemon": "nidorina",
+        "altura": 8,
+        "peso": 200,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
+    },
+    {
+        "id_pokemon": 31,
+        "name": "nidoqueen",
+        "nome_pokemon": "nidoqueen",
+        "altura": 13,
+        "peso": 600,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
+    },
+    {
+        "id_pokemon": 32,
+        "name": "nidoran-m",
+        "nome_pokemon": "nidoran-m",
+        "altura": 5,
+        "peso": 90,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
+    },
+    {
+        "id_pokemon": 33,
+        "name": "nidorino",
+        "nome_pokemon": "nidorino",
+        "altura": 9,
+        "peso": 195,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
+    },
+    {
+        "id_pokemon": 34,
+        "name": "nidoking",
+        "nome_pokemon": "nidoking",
+        "altura": 14,
+        "peso": 620,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
+    },
+    {
+        "id_pokemon": 35,
+        "name": "clefairy",
+        "nome_pokemon": "clefairy",
+        "altura": 6,
+        "peso": 75,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
+    },
+    {
+        "id_pokemon": 36,
+        "name": "clefable",
+        "nome_pokemon": "clefable",
+        "altura": 13,
+        "peso": 400,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
+    },
+    {
+        "id_pokemon": 37,
+        "name": "vulpix",
+        "nome_pokemon": "vulpix",
+        "altura": 6,
+        "peso": 99,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
+    },
+    {
+        "id_pokemon": 38,
+        "name": "ninetales",
+        "nome_pokemon": "ninetales",
+        "altura": 11,
+        "peso": 199,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
+    },
+    {
+        "id_pokemon": 39,
+        "name": "jigglypuff",
+        "nome_pokemon": "jigglypuff",
+        "altura": 5,
+        "peso": 55,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+    },
+    {
+        "id_pokemon": 40,
+        "name": "wigglytuff",
+        "nome_pokemon": "wigglytuff",
+        "altura": 10,
+        "peso": 120,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
+    }
+]

@@ -1,10 +1,13 @@
 import requests
 import json
-import os
+from pathlib import Path
+
+from scripts.utils.file_utils import save_to_json
 
 BASE_URL = "https://pokeapi.co/api/v2/type/"
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-OUTPUT_PATH = os.path.join(BASE_DIR, "data/lake/raw/types.json")
+
+BASE_DIR = Path(__file__).resolve().parents[2]
+OUTPUT_PATH = BASE_DIR / "data/lake/raw/types.json"
 
 def extract_tipo():
     url = BASE_URL
@@ -22,13 +25,8 @@ def extract_tipo():
 
     return all_types
 
-def save_to_json(data):
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-
 
 if __name__ == "__main__":
     types = extract_tipo()
-    save_to_json(types)
+    save_to_json(types, OUTPUT_PATH)
     print(f"{len(types)} tipos encontrados com sucesso")
