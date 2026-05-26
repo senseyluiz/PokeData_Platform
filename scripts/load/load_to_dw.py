@@ -16,6 +16,10 @@ df_dim_tipo = pd.DataFrame(dim_tipo)
 dim_habilidade = pd.read_json(BASE_DIR / "data/processed/dim_habilidade.json")
 df_dim_habilidade = pd.DataFrame(dim_habilidade)
 
+# Ler json dim_pokemon
+dim_pokemon = pd.read_json(BASE_DIR / "data/processed/dim_pokemon.json")
+df_dim_pokemon = pd.DataFrame(dim_pokemon)
+
 # Configurações de conexão
 load_dotenv()
 HOST = os.getenv("DB_HOST")
@@ -38,8 +42,7 @@ try:
     with engine.begin() as conn:
         print("\33[32m✔ Conexão bem sucedida!\33[0m")
         load_table(conn,df_dim_tipo, "dim_tipo")
-    with engine.begin() as conn:
-        print("\33[32m✔ Conexão bem sucedida!\33[0m")
         load_table(conn,df_dim_habilidade, "dim_habilidade")
+        load_table(conn,df_dim_pokemon, "dim_pokemon")
 except Exception as e:
     print(f"\33[31m✘ Falha na conexão: {e}\33[m")

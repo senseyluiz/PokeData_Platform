@@ -1,7 +1,6 @@
 [
     {
         "id_pokemon": 1,
-        "name": "bulbasaur",
         "nome_pokemon": "bulbasaur",
         "altura": 7,
         "peso": 69,
@@ -9,7 +8,6 @@
     },
     {
         "id_pokemon": 2,
-        "name": "ivysaur",
         "nome_pokemon": "ivysaur",
         "altura": 10,
         "peso": 130,
@@ -17,7 +15,6 @@
     },
     {
         "id_pokemon": 3,
-        "name": "venusaur",
         "nome_pokemon": "venusaur",
         "altura": 20,
         "peso": 1000,
@@ -25,7 +22,6 @@
     },
     {
         "id_pokemon": 4,
-        "name": "charmander",
         "nome_pokemon": "charmander",
         "altura": 6,
         "peso": 85,
@@ -33,7 +29,6 @@
     },
     {
         "id_pokemon": 5,
-        "name": "charmeleon",
         "nome_pokemon": "charmeleon",
         "altura": 11,
         "peso": 190,
@@ -41,7 +36,6 @@
     },
     {
         "id_pokemon": 6,
-        "name": "charizard",
         "nome_pokemon": "charizard",
         "altura": 17,
         "peso": 905,
@@ -49,7 +43,6 @@
     },
     {
         "id_pokemon": 7,
-        "name": "squirtle",
         "nome_pokemon": "squirtle",
         "altura": 5,
         "peso": 90,
@@ -57,7 +50,6 @@
     },
     {
         "id_pokemon": 8,
-        "name": "wartortle",
         "nome_pokemon": "wartortle",
         "altura": 10,
         "peso": 225,
@@ -65,7 +57,6 @@
     },
     {
         "id_pokemon": 9,
-        "name": "blastoise",
         "nome_pokemon": "blastoise",
         "altura": 16,
         "peso": 855,
@@ -73,7 +64,6 @@
     },
     {
         "id_pokemon": 10,
-        "name": "caterpie",
         "nome_pokemon": "caterpie",
         "altura": 3,
         "peso": 29,
@@ -81,7 +71,6 @@
     },
     {
         "id_pokemon": 11,
-        "name": "metapod",
         "nome_pokemon": "metapod",
         "altura": 7,
         "peso": 99,
@@ -89,7 +78,6 @@
     },
     {
         "id_pokemon": 12,
-        "name": "butterfree",
         "nome_pokemon": "butterfree",
         "altura": 11,
         "peso": 320,
@@ -97,7 +85,6 @@
     },
     {
         "id_pokemon": 13,
-        "name": "weedle",
         "nome_pokemon": "weedle",
         "altura": 3,
         "peso": 32,
@@ -105,7 +92,6 @@
     },
     {
         "id_pokemon": 14,
-        "name": "kakuna",
         "nome_pokemon": "kakuna",
         "altura": 6,
         "peso": 100,
@@ -113,7 +99,6 @@
     },
     {
         "id_pokemon": 15,
-        "name": "beedrill",
         "nome_pokemon": "beedrill",
         "altura": 10,
         "peso": 295,
@@ -121,7 +106,6 @@
     },
     {
         "id_pokemon": 16,
-        "name": "pidgey",
         "nome_pokemon": "pidgey",
         "altura": 3,
         "peso": 18,
@@ -129,7 +113,6 @@
     },
     {
         "id_pokemon": 17,
-        "name": "pidgeotto",
         "nome_pokemon": "pidgeotto",
         "altura": 11,
         "peso": 300,
@@ -137,7 +120,6 @@
     },
     {
         "id_pokemon": 18,
-        "name": "pidgeot",
         "nome_pokemon": "pidgeot",
         "altura": 15,
         "peso": 395,
@@ -145,7 +127,6 @@
     },
     {
         "id_pokemon": 19,
-        "name": "rattata",
         "nome_pokemon": "rattata",
         "altura": 3,
         "peso": 35,
@@ -153,7 +134,6 @@
     },
     {
         "id_pokemon": 20,
-        "name": "raticate",
         "nome_pokemon": "raticate",
         "altura": 7,
         "peso": 185,
@@ -161,7 +141,6 @@
     },
     {
         "id_pokemon": 21,
-        "name": "spearow",
         "nome_pokemon": "spearow",
         "altura": 3,
         "peso": 20,
@@ -169,7 +148,6 @@
     },
     {
         "id_pokemon": 22,
-        "name": "fearow",
         "nome_pokemon": "fearow",
         "altura": 12,
         "peso": 380,
@@ -177,7 +155,6 @@
     },
     {
         "id_pokemon": 23,
-        "name": "ekans",
         "nome_pokemon": "ekans",
         "altura": 20,
         "peso": 69,
@@ -185,7 +162,6 @@
     },
     {
         "id_pokemon": 24,
-        "name": "arbok",
         "nome_pokemon": "arbok",
         "altura": 35,
         "peso": 650,
@@ -193,7 +169,6 @@
     },
     {
         "id_pokemon": 25,
-        "name": "pikachu",
         "nome_pokemon": "pikachu",
         "altura": 4,
         "peso": 60,
@@ -201,7 +176,6 @@
     },
     {
         "id_pokemon": 26,
-        "name": "raichu",
         "nome_pokemon": "raichu",
         "altura": 8,
         "peso": 300,
@@ -209,7 +183,6 @@
     },
     {
         "id_pokemon": 27,
-        "name": "sandshrew",
         "nome_pokemon": "sandshrew",
         "altura": 6,
         "peso": 120,
@@ -217,7 +190,6 @@
     },
     {
         "id_pokemon": 28,
-        "name": "sandslash",
         "nome_pokemon": "sandslash",
         "altura": 10,
         "peso": 295,
@@ -225,7 +197,6 @@
     },
     {
         "id_pokemon": 29,
-        "name": "nidoran-f",
         "nome_pokemon": "nidoran-f",
         "altura": 4,
         "peso": 70,
@@ -233,7 +204,6 @@
     },
     {
         "id_pokemon": 30,
-        "name": "nidorina",
         "nome_pokemon": "nidorina",
         "altura": 8,
         "peso": 200,
@@ -241,7 +211,6 @@
     },
     {
         "id_pokemon": 31,
-        "name": "nidoqueen",
         "nome_pokemon": "nidoqueen",
         "altura": 13,
         "peso": 600,
@@ -249,7 +218,6 @@
     },
     {
         "id_pokemon": 32,
-        "name": "nidoran-m",
         "nome_pokemon": "nidoran-m",
         "altura": 5,
         "peso": 90,
@@ -257,7 +225,6 @@
     },
     {
         "id_pokemon": 33,
-        "name": "nidorino",
         "nome_pokemon": "nidorino",
         "altura": 9,
         "peso": 195,
@@ -265,7 +232,6 @@
     },
     {
         "id_pokemon": 34,
-        "name": "nidoking",
         "nome_pokemon": "nidoking",
         "altura": 14,
         "peso": 620,
@@ -273,7 +239,6 @@
     },
     {
         "id_pokemon": 35,
-        "name": "clefairy",
         "nome_pokemon": "clefairy",
         "altura": 6,
         "peso": 75,
@@ -281,7 +246,6 @@
     },
     {
         "id_pokemon": 36,
-        "name": "clefable",
         "nome_pokemon": "clefable",
         "altura": 13,
         "peso": 400,
@@ -289,7 +253,6 @@
     },
     {
         "id_pokemon": 37,
-        "name": "vulpix",
         "nome_pokemon": "vulpix",
         "altura": 6,
         "peso": 99,
@@ -297,7 +260,6 @@
     },
     {
         "id_pokemon": 38,
-        "name": "ninetales",
         "nome_pokemon": "ninetales",
         "altura": 11,
         "peso": 199,
@@ -305,7 +267,6 @@
     },
     {
         "id_pokemon": 39,
-        "name": "jigglypuff",
         "nome_pokemon": "jigglypuff",
         "altura": 5,
         "peso": 55,
@@ -313,10 +274,149 @@
     },
     {
         "id_pokemon": 40,
-        "name": "wigglytuff",
         "nome_pokemon": "wigglytuff",
         "altura": 10,
         "peso": 120,
         "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
+    },
+    {
+        "id_pokemon": 41,
+        "nome_pokemon": "zubat",
+        "altura": 8,
+        "peso": 75,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+    },
+    {
+        "id_pokemon": 42,
+        "nome_pokemon": "golbat",
+        "altura": 16,
+        "peso": 550,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
+    },
+    {
+        "id_pokemon": 43,
+        "nome_pokemon": "oddish",
+        "altura": 5,
+        "peso": 54,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+    },
+    {
+        "id_pokemon": 44,
+        "nome_pokemon": "gloom",
+        "altura": 8,
+        "peso": 86,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
+    },
+    {
+        "id_pokemon": 45,
+        "nome_pokemon": "vileplume",
+        "altura": 12,
+        "peso": 186,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
+    },
+    {
+        "id_pokemon": 46,
+        "nome_pokemon": "paras",
+        "altura": 3,
+        "peso": 54,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
+    },
+    {
+        "id_pokemon": 47,
+        "nome_pokemon": "parasect",
+        "altura": 10,
+        "peso": 295,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
+    },
+    {
+        "id_pokemon": 48,
+        "nome_pokemon": "venonat",
+        "altura": 10,
+        "peso": 300,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
+    },
+    {
+        "id_pokemon": 49,
+        "nome_pokemon": "venomoth",
+        "altura": 15,
+        "peso": 125,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
+    },
+    {
+        "id_pokemon": 50,
+        "nome_pokemon": "diglett",
+        "altura": 2,
+        "peso": 8,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
+    },
+    {
+        "id_pokemon": 51,
+        "nome_pokemon": "dugtrio",
+        "altura": 7,
+        "peso": 333,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
+    },
+    {
+        "id_pokemon": 52,
+        "nome_pokemon": "meowth",
+        "altura": 4,
+        "peso": 42,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
+    },
+    {
+        "id_pokemon": 53,
+        "nome_pokemon": "persian",
+        "altura": 10,
+        "peso": 320,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
+    },
+    {
+        "id_pokemon": 54,
+        "nome_pokemon": "psyduck",
+        "altura": 8,
+        "peso": 196,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
+    },
+    {
+        "id_pokemon": 55,
+        "nome_pokemon": "golduck",
+        "altura": 17,
+        "peso": 766,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
+    },
+    {
+        "id_pokemon": 56,
+        "nome_pokemon": "mankey",
+        "altura": 5,
+        "peso": 280,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
+    },
+    {
+        "id_pokemon": 57,
+        "nome_pokemon": "primeape",
+        "altura": 10,
+        "peso": 320,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
+    },
+    {
+        "id_pokemon": 58,
+        "nome_pokemon": "growlithe",
+        "altura": 7,
+        "peso": 190,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
+    },
+    {
+        "id_pokemon": 59,
+        "nome_pokemon": "arcanine",
+        "altura": 19,
+        "peso": 1550,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
+    },
+    {
+        "id_pokemon": 60,
+        "nome_pokemon": "poliwag",
+        "altura": 6,
+        "peso": 124,
+        "url_imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
     }
 ]
