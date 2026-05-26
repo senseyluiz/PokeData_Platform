@@ -5,12 +5,16 @@ from pathlib import Path
 from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
 import os
+
 BASE_DIR = Path(__file__).resolve().parents[2]
 
 # Ler json de dim_tipo
 dim_tipo = pd.read_json(BASE_DIR / "data/processed/dim_tipo.json")
 df_dim_tipo = pd.DataFrame(dim_tipo)
 
+# Ler json dim_habilidade
+dim_habilidade = pd.read_json(BASE_DIR / "data/processed/dim_habilidade.json")
+df_dim_habilidade = pd.DataFrame(dim_habilidade)
 
 # Configurações de conexão
 load_dotenv()
@@ -34,5 +38,8 @@ try:
     with engine.begin() as conn:
         print("\33[32m✔ Conexão bem sucedida!\33[0m")
         load_table(conn,df_dim_tipo, "dim_tipo")
+    with engine.begin() as conn:
+        print("\33[32m✔ Conexão bem sucedida!\33[0m")
+        load_table(conn,df_dim_habilidade, "dim_habilidade")
 except Exception as e:
     print(f"\33[31m✘ Falha na conexão: {e}\33[m")
