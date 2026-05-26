@@ -20,6 +20,10 @@ df_dim_habilidade = pd.DataFrame(dim_habilidade)
 dim_pokemon = pd.read_json(BASE_DIR / "data/processed/dim_pokemon.json")
 df_dim_pokemon = pd.DataFrame(dim_pokemon)
 
+# Ler json bridge_pokemon_tipo
+bridge_pokemon_tipo = pd.read_json(BASE_DIR / "data/processed/bridge_pokemon_tipo.json")
+df_bridge_pokemon_tipo = pd.DataFrame(bridge_pokemon_tipo)
+
 # Configurações de conexão
 load_dotenv()
 HOST = os.getenv("DB_HOST")
@@ -44,5 +48,6 @@ try:
         load_table(conn,df_dim_tipo, "dim_tipo")
         load_table(conn,df_dim_habilidade, "dim_habilidade")
         load_table(conn,df_dim_pokemon, "dim_pokemon")
+        load_table(conn, df_bridge_pokemon_tipo, "bridge_pokemon_tipo")
 except Exception as e:
     print(f"\33[31m✘ Falha na conexão: {e}\33[m")
