@@ -16,7 +16,6 @@ df_pokemons = pd.read_json(pokemons_PATH)
 dim_pokemon = [
     {
     "id_pokemon": pokemon["id"],
-    "name": pokemon["name"],
     "nome_pokemon": pokemon["name"],
     "altura": pokemon["height"],
     "peso": pokemon["weight"],
