@@ -2,9 +2,11 @@ from urllib.parse import quote_plus
 import pandas as pd
 from pathlib import Path
 
-from sqlalchemy import create_engine, text
+from sqlalchemy import create_engine
 from dotenv import load_dotenv
 import os
+
+from scripts.utils.file_utils import load_table
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 
@@ -43,12 +45,6 @@ DBNAME = os.getenv("DB_NAME")
 DATABASE_URL = f"postgresql+psycopg2://{USER}:{PASSWORD}@{HOST}:{PORT}/{DBNAME}?sslmode=require"
 
 engine = create_engine(DATABASE_URL)
-
-def load_table(conn, df, table_name):
-    print(f"\n🔄 Carregando tabela: {table_name}")
-    conn.execute(text(f"TRUNCATE TABLE {table_name} CASCADE"))
-    df.to_sql(table_name, con=conn, if_exists='append', index=False)
-    print(f"\33[32m✔ {table_name} carregada com sucesso!\33[0m")
 
 try:
     with engine.begin() as conn:

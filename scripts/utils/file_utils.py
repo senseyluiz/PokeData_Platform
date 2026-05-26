@@ -9,3 +9,11 @@ def save_to_json(data, output: Path):
         json.dump(data, f, indent=4, ensure_ascii=False)
 
     print(f"Dados salvos em {output}")
+
+
+def load_table(conn, df, table_name):
+    from sqlalchemy import text
+    print(f"\n🔄 Carregando tabela: {table_name}")
+    conn.execute(text(f"TRUNCATE TABLE {table_name} CASCADE"))
+    df.to_sql(table_name, con=conn, if_exists='append', index=False)
+    print(f"\33[32m✔ {table_name} carregada com sucesso!\33[0m")
