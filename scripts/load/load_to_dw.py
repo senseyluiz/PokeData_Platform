@@ -1,5 +1,4 @@
 from urllib.parse import quote_plus
-import pandas as pd
 from pathlib import Path
 
 from sqlalchemy import create_engine
@@ -32,11 +31,12 @@ engine = create_engine(DATABASE_URL)
 try:
     with engine.begin() as conn:
         print("\33[32m✔ Conexão bem sucedida!\33[0m")
-        load_table(conn,df_dim_tipo, "dim_tipo")
-        load_table(conn,df_dim_habilidade, "dim_habilidade")
-        load_table(conn,df_dim_pokemon, "dim_pokemon")
+        load_table(conn, df_dim_tipo, "dim_tipo")
+        load_table(conn, df_dim_habilidade, "dim_habilidade")
+        load_table(conn, df_dim_pokemon, "dim_pokemon")
+        load_table(conn, df_fato_pokemon_stats, "fato_pokemon_stats")
         load_table(conn, df_bridge_pokemon_tipo, "bridge_pokemon_tipo")
         load_table(conn, df_bridge_pokemon_habilidade, "bridge_pokemon_habilidade")
-        load_table(conn, df_fato_pokemon_stats, "fato_pokemon_stats")
+
 except Exception as e:
     print(f"\33[31m✘ Falha na conexão: {e}\33[m")
