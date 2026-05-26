@@ -6,33 +6,16 @@ from sqlalchemy import create_engine
 from dotenv import load_dotenv
 import os
 
-from scripts.utils.file_utils import load_table
+from scripts.utils.file_utils import load_table, load_json_to_df
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 
-# Ler json de dim_tipo
-dim_tipo = pd.read_json(BASE_DIR / "data/processed/dim_tipo.json")
-df_dim_tipo = pd.DataFrame(dim_tipo)
-
-# Ler json dim_habilidade
-dim_habilidade = pd.read_json(BASE_DIR / "data/processed/dim_habilidade.json")
-df_dim_habilidade = pd.DataFrame(dim_habilidade)
-
-# Ler json dim_pokemon
-dim_pokemon = pd.read_json(BASE_DIR / "data/processed/dim_pokemon.json")
-df_dim_pokemon = pd.DataFrame(dim_pokemon)
-
-# Ler json bridge_pokemon_tipo
-bridge_pokemon_tipo = pd.read_json(BASE_DIR / "data/processed/bridge_pokemon_tipo.json")
-df_bridge_pokemon_tipo = pd.DataFrame(bridge_pokemon_tipo)
-
-# Ler json bridge_pokemon_habilidade
-bridge_pokemon_habilidade = pd.read_json(BASE_DIR / "data/processed/bridge_pokemon_habilidade.json")
-df_bridge_pokemon_habilidade = pd.DataFrame(bridge_pokemon_habilidade)
-
-# Ler json fato_pokemon_stats
-fato_pokemon_stats = pd.read_json(BASE_DIR / "data/processed/fato_pokemon_stats.json")
-df_fato_pokemon_stats = pd.DataFrame(fato_pokemon_stats)
+df_dim_tipo = load_json_to_df(BASE_DIR / "data/processed/dim_tipo.json")
+df_dim_habilidade = load_json_to_df(BASE_DIR / "data/processed/dim_habilidade.json")
+df_dim_pokemon = load_json_to_df(BASE_DIR / "data/processed/dim_pokemon.json")
+df_bridge_pokemon_tipo = load_json_to_df(BASE_DIR / "data/processed/bridge_pokemon_tipo.json")
+df_bridge_pokemon_habilidade = load_json_to_df(BASE_DIR / "data/processed/bridge_pokemon_habilidade.json")
+df_fato_pokemon_stats = load_json_to_df(BASE_DIR / "data/processed/fato_pokemon_stats.json")
 
 # Configurações de conexão
 load_dotenv()
