@@ -17,14 +17,14 @@ df = df.merge(df_bridge, on="id_pokemon")
 df = df.merge(df_tipo, on="id_tipo")
 
 # Criar score
-df["score"] = (
+df["score"] = round((
     df["attack"] * 0.3 +
     df["special_attack"] * 0.2 +
     df["speed"] * 0.2 +
     df["hp"] * 0.1 +
     df["defense"] * 0.1 +
     df["special_defense"] * 0.1
-)
+), 2)
 
 # Selecionar colunas
 df_final = df[
